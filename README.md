@@ -15,7 +15,7 @@ For example:
 
 Given BST  [1,null,2,2],
  
- 
+![image](https://github.com/eric82714/LeetCode_501--Find-Mode-in-Binary-Search-Tree/blob/master/image/example.PNG) 
 
 return [2].
 
